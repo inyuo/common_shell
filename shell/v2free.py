@@ -60,8 +60,8 @@ def main(user, password):
 
 if __name__ == "__main__":
     # 多账号 ”#分割“
-    email = "q669239799@163.com"
-    passwd = "wujinyu1111"
+    email = "xxxx@163.com"
+    passwd = "xxxxx"
 
     main(email, passwd)
 
